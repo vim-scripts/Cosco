@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4758
+
+What Cosco does:
+
+Appends, substitutes or removes a comma or a semi-colon to the end of your line, based on its context.
+
+It:
+
+Takes into consideration previous and next lines endings, as well line indentations.
+Ignores blank lines.
+Will maintain your cursor's original position.
+The best way to describe it is with examples -- take a look at the official page on GitHub to see examples.
+
+For examples, installation and usage, see the documentation at:
+
+OFFICIAL GITHUB: https://github.com/lfilho/cosco.vim
